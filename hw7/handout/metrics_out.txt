@@ -1,0 +1,30 @@
+Epoch 1:
+  accuracy(train): 0.843460
+  accuracy(test): 0.824956
+  f1(train): 0.305094
+  f1(test): 0.246541
+
+Epoch 2:
+  accuracy(train): 0.945305
+  accuracy(test): 0.881720
+  f1(train): 0.733401
+  f1(test): 0.493697
+
+Epoch 3:
+  accuracy(train): 0.981242
+  accuracy(test): 0.888722
+  f1(train): 0.893861
+  f1(test): 0.547710
+
+Epoch 4:
+  accuracy(train): 0.979713
+  accuracy(test): 0.891223
+  f1(train): 0.880015
+  f1(test): 0.530097
+
+Epoch 5:
+  accuracy(train): 0.990825
+  accuracy(test): 0.889472
+  f1(train): 0.938464
+  f1(test): 0.545616
+

@@ -1,0 +1,3 @@
+[X0 <= 0.0], Depth = 0
+  Leaf: Predict = 1
+  Leaf: Predict = 0
